@@ -21,4 +21,4 @@ Open source project attempting to build the first good canyoneering app. Early w
 
 
 ### LucidChart
-[LucidChart]("https://lucid.app/documents/embedded/2c8de836-b0af-4081-8482-21b96755557e" "@embed")
+![App Design for Canyons](https://user-images.githubusercontent.com/36290330/219441702-a0bcbee2-f111-43fe-adb4-1b8af749f31c.png)
