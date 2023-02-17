@@ -1,5 +1,5 @@
 # my_canyon
-Open source project attempting to build the first good canyoneering app. Early work in progress.
+Open source project attempting to build a sexy canyoneering app. Early work in progress.
 
 ### MVP Goals
 - Home page with favorites list and trips list
