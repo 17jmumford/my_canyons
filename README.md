@@ -22,3 +22,7 @@ Open source project attempting to build a sexy canyoneering app. Early work in p
 
 ### LucidChart
 ![App Design for Canyons](https://user-images.githubusercontent.com/36290330/219441702-a0bcbee2-f111-43fe-adb4-1b8af749f31c.png)
+
+
+### mockup for canyon page
+![mockup](https://user-images.githubusercontent.com/36290330/219593523-ccaa5d0f-3865-424d-8bc2-e946b6752677.jpg)
